@@ -5,7 +5,8 @@ I am a software engineer and business director from Germany. :de:
 I currently live and work in Munich 🍺. In 2014, I founded [Blueshoe](https://blueshoe.de), the cloud-native development company. 🚀
 We're creating a bunch of open-source software projects 💙:
 - [Unikube](https://github.com/unikubehq/): the most convenient development platform for Kubernetes-based application development
-- [Gefyra](https://github.com/gefyrahq/gefyra): a standalone tool to write and debug container-based software directly within a Kubernetes cluster
+- [Gefyra](https://github.com/gefyrahq/gefyra): a standalone tool to write and test local code that is connected to Kubernetes-based resources
+- [Getdeck Beiboot](https://github.com/Getdeck/getdeck): a Kubernetes-in-Kubernetes solution to provide virtual clusters for development and testing
 - [Getdeck](https://github.com/Getdeck/getdeck): a standalone tool to create reproducible Kubernetes cluster and a Kubernetes-in-Kubernetes solution
 - [Django-Hurricane](https://github.com/django-hurricane/): the Kubernetes native stack specifically created for [Django](https://www.djangoproject.com/)
 - [Others](https://github.com/Blueshoe/): different software packages for Django and others  
