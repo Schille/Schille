@@ -18,6 +18,6 @@ I like Python, Linux, Django, container and scalable technologies as well as cha
 
 In my free time I like brewing beer, all types of cycling (especially MTB and road), playing the keyboard and being away in my self-made campervan. I am husband and father of one. ❤️
 
-You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/michael-schilonka/)
-- Here on GitHub
+Follow me on  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-schilonka)
