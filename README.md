@@ -21,4 +21,4 @@ In my free time I like brewing beer, all types of cycling (especially MTB and ro
 
 Follow me on  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-schilonka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-schilonka)
