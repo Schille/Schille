@@ -17,7 +17,7 @@ I like Python, Rust, Linux, Django, container and scalable technologies as well 
 
 > I like inherent complexity, but I hate accidental complexity.
 
-In my free time I like brewing beer, all types of cycling (especially MTB and road), playing the keyboard and being away in my self-made campervan. I am husband and father of one. ❤️
+In my free time I like brewing beer, all types of cycling (especially MTB and road), playing the keyboard and being away in my [self-made campervan](https://michael.schilonka.de/projects/bob-campervan/). I am husband and father of one. ❤️
 
 Follow me on  
 
